@@ -19,10 +19,10 @@
 </div>
 <style>
 
-div {
-    position: center
-    max-width 800px
-    padding 0 20 0 20
-    text-align center
+.main {
+    margin: auto;
+    max-width: 800px;
+    padding: 0 50px 0 50px;
+    text-align: center;
 }
 </style>
