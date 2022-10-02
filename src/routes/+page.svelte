@@ -20,9 +20,9 @@
 <style>
 
 .main {
-    margin: auto;
+    margin: 20 auto;
     max-width: 800px;
-    padding: 0 50px 0 50px;
+    display: block;
     text-align: center;
 }
 </style>
