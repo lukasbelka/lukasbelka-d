@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+body {
+    background: #fdfdfd;
+    margin: 0;
+}
+
+h1, h2, h3, h4, a, p, li {
+    color: #262626;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
