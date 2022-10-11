@@ -1,5 +1,19 @@
 ---
-title: "About"
+title: "Lukas Belka"
+about:
+  template: jolla
+  image: images/Photo.jpeg
 ---
 
-About this site
+Hi! I'm a German-based Analytics Developer and it's my job to make data
+human-friendly and usable - I like it! However, I was not always wrangling
+data why I would describe myself as kind of hybrid: For nearly ten years I
+worked as a project manager in the primary and reinsurance industry, where I headed the
+PMO of a large IT-transformation project for two years.
+
+During that time I received my MBA in eBusiness and got more and more interested
+in web technologies and data. Back then I wanted to deal with data professionally
+and combine it with domain knowledge, why I started programming in Python
+and JavaScript - a never-ending journey!😀
+
+I like the idea of open source and open data, this is why I share things here.
