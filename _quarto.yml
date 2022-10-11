@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "reinsurance-world"
+  title: "lukasbelka.dev"
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +11,8 @@ website:
         text: About
     search: true
     background: light
+  page-footer:
+    center: I don't track you! 👀 No cookies!
 
 format:
   html:
