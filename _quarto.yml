@@ -12,8 +12,8 @@ website:
     search: true
     background: light
   page-footer:
-    center: I don't track you! 👀 No cookies!
-
+    center: I don't track you! 👀 No cookies!</br>  
+            lukasbelka(dot)dev(at)gmail(dot)com
 format:
   html:
     theme: cosmo

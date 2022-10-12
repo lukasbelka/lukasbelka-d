@@ -5,3 +5,30 @@ title: "Hi!"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{ojs}
+display = html `
+<style>
+.bottom-row {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.bottom-column {
+  flex: 50%;
+}
+}
+</style>
+  <div class="bottom-row">
+    <div class="bottom-column">
+      <h4>Column 1</h4>
+      <p>Topic 1</p>
+    </div>
+    <div class="bottom-column">
+      <h4>Column 2</h4>
+      <p>Topic 1</p>
+    </div>
+  </div>`
+```
