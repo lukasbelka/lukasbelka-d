@@ -1,7 +1,10 @@
 ---
-title: "Hi, this is my Blog!"
+title: "Home"
+description-meta: lukasbelka.dev - A blog about data analytics and reinsurance
 code-fold: true
 ---
+
+**Hi, this is my Blog!**
 
 I'm a German-based Analytics Developer and share my stuff here.
 Before I started programming and wrangling Data, I worked as

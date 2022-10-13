@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, this is my Blog!",
+    "title": "Home",
     "section": "",
-    "text": "Code\ndisplay = html `\n<style>\n.bottom-row {\n  display: flex;\n  border: 1px solid black;\n  border-radius: 2px;\n  padding: 5px;\n}\n\n.bottom-column {\n  flex: 50%;\n}\n}\n</style>\n  <div class=\"bottom-row\">\n    <div class=\"bottom-column\">\n      <h4>Column 1</h4>\n      <p>Topic 1</p>\n    </div>\n    <div class=\"bottom-column\">\n      <h4>Column 2</h4>\n      <p>Topic 1</p>\n    </div>\n  </div>`"
+    "text": "I’m a German-based Analytics Developer and share my stuff here. Before I started programming and wrangling Data, I worked as a project manager for more than ten years in the primary and reinsurance industry. This blog’s content somehow represents my hybrid domain-IT-life! Read more about me or browse through the topics.\n\n\n\nCode\ndisplay = html `\n<style>\n.bottom-row {\n  display: flex;\n  border: 1px solid black;\n  border-radius: 2px;\n  padding: 5px;\n}\n\n.bottom-column {\n  flex: 50%;\n}\n}\n</style>\n  <div class=\"bottom-row\">\n    <div class=\"bottom-column\">\n      <h4>Column 1</h4>\n      <p>Topic 1</p>\n    </div>\n    <div class=\"bottom-column\">\n      <h4>Column 2</h4>\n      <p>Topic 1</p>\n    </div>\n  </div>`"
   },
   {
     "objectID": "about.html",
