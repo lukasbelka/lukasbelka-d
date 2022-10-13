@@ -3,7 +3,9 @@ project:
 
 website:
   title: "lukasbelka.dev"
+  description: Data Analytics and Reinsurance
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
