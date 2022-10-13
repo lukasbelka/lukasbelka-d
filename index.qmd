@@ -2,9 +2,10 @@
 title: "Home"
 description-meta: lukasbelka.dev - A blog about data analytics and reinsurance
 code-fold: true
+toc: false
 ---
 
-**Hi, this is my Blog!**
+# Hi, this is my Blog!
 
 I'm a German-based Analytics Developer and share my stuff here.
 Before I started programming and wrangling Data, I worked as
