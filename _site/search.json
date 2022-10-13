@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi!",
+    "title": "Hi, this is my Blog!",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\ndisplay = html `\n<style>\n.bottom-row {\n  display: flex;\n  border: 1px solid black;\n  border-radius: 2px;\n  padding: 5px;\n}\n\n.bottom-column {\n  flex: 50%;\n}\n}\n</style>\n  <div class=\"bottom-row\">\n    <div class=\"bottom-column\">\n      <h4>Column 1</h4>\n      <p>Topic 1</p>\n    </div>\n    <div class=\"bottom-column\">\n      <h4>Column 2</h4>\n      <p>Topic 1</p>\n    </div>\n  </div>`"
+    "text": "Code\ndisplay = html `\n<style>\n.bottom-row {\n  display: flex;\n  border: 1px solid black;\n  border-radius: 2px;\n  padding: 5px;\n}\n\n.bottom-column {\n  flex: 50%;\n}\n}\n</style>\n  <div class=\"bottom-row\">\n    <div class=\"bottom-column\">\n      <h4>Column 1</h4>\n      <p>Topic 1</p>\n    </div>\n    <div class=\"bottom-column\">\n      <h4>Column 2</h4>\n      <p>Topic 1</p>\n    </div>\n  </div>`"
   },
   {
     "objectID": "about.html",

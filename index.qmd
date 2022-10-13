@@ -1,11 +1,15 @@
 ---
-title: "Hi!"
+title: "Hi, this is my Blog!"
+code-fold: true
 ---
 
-This is a Quarto website.
+I'm a German-based Analytics Developer and share my stuff here.
+Before I started programming and wrangling Data, I worked as
+a project manager for more than ten years in the primary and reinsurance
+industry. This blog's content somehow represents my hybrid domain-IT-life!
+Read more [about me](/about.qmd) or browse through the topics. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+:::{.column-page}
 ```{ojs}
 display = html `
 <style>
@@ -32,3 +36,4 @@ display = html `
     </div>
   </div>`
 ```
+:::

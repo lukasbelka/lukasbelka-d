@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "55e11b73"
+  },
+  "reinsurance.qmd": {
+    "reinsurance.html": "6b4ce229"
+  },
+  "blog.qmd": {
+    "blog.html": "ce66000f"
   }
 }

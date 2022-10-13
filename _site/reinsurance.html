@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>lukasbelka.dev - Lukas Belka</title>
+<title>lukasbelka.dev - Reinsurance</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,7 +63,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -85,10 +86,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./blog.html">Blog</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./reinsurance.html">Reinsurance</a>
+    <a class="nav-link active" href="./reinsurance.html" aria-current="page">Reinsurance</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">About</a>
+    <a class="nav-link" href="./about.html">About</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -100,26 +101,32 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="images/Photo.jpeg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lukas Belka</h1>
+<h1 class="title">Reinsurance</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>Hi! I’m a German-based Analytics Developer and it’s my job to make data human-friendly and usable - I like it! However, I was not always wrangling data why I would describe myself as kind of hybrid: For nearly ten years I worked as a project manager in the primary and reinsurance industry, where I headed the PMO of a large IT-transformation project for two years.</p>
-<p>During that time I received my MBA in eBusiness and got more and more interested in web technologies and data. Back then I wanted to deal with data professionally and combine it with domain knowledge, why I started programming in Python and JavaScript - a never-ending journey!😀</p>
-<p>I like the idea of open source and open data, this is why I share things here.</p>
+  
+
+</header>
 
 
-</main>  
-</div>
- <!-- /main -->
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -140,6 +147,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
